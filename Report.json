@@ -1,0 +1,67 @@
+{
+	"handlingUser": {
+		"sourceAppID": "原系统编码",
+		"action": "Report",
+		"comment": "测试流程",
+		"handlingOUID": "10gd000000bneZdHlbKS",
+		"handlingOUName": "部门名称",
+		"handlingUserID": "2",
+		"handlingUserName": "用户名称",
+	},
+	"process": {
+	},
+	"instanceData": { #事件
+		"CaseAttachement": {
+			"body": {
+				"fileGroup": "12345事件",
+				"fileName": "",
+				"fileSize": "0",
+				"url": "",
+				"instanceID": "c3M0000000cbvPSwixIu",
+				"caseInstanceID": "",
+				"fileExtension": ""
+			},
+			"method": "insert"
+		},
+		"CaseBase": {
+			"body": {
+				"reporterIDType": "身份证",
+				"subject": "挪车",
+				"longitude": "",
+				"grid": "坂田01",
+				"caseTypeCode": "0101",
+				"masterCaseInstanceID": "",
+				"description": "有一辆白色宝马占用人行道",
+				"registrantName": "mazhen",
+				"reporterAccount": "13600136000",
+				"urgencyLevel": "b",
+				"occurrenceDate": "2020-08-21 11:10:44",
+				"caseSourceName": "12345热线",
+				"caseCatetoryCode": "0101",
+				"registeredDate": "2020-08-21 11:10:44",
+				"district": "龙岗区",
+				"registrantAccount": "mazhen",
+				"reportAppID": "TSYS01",
+				"confidentialLevel": "低",
+				"acceptFeedback": null,
+				"address": "冲之大道888号",
+				"reportDate": "2020-08-21 11:10:44",
+				"latitude": "",
+				"community": "坂田街道",
+				"schemaID": "cDY8000000brYMxwYpto",
+				"status": "open",
+				"reporterIDNumber": null,
+				"city": "深圳",
+				"caseInstanceID": "",
+				"subDistrict": "坂田街道",
+				"instanceID": "c3M0000000cbvPSwixIu",
+        "rowGuid": "string"
+			},
+			"method": "insert"
+		}
+	},
+	"custom": {
+		"procDefID": "2",
+		"recID": "2"
+	}
+}
