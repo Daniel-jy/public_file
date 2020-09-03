@@ -1,0 +1,22 @@
+/service/HW_Xiabo__ServiceConfig/0.1.1/ProcessFinish
+
+{
+    "taskInstance": {
+        "taskInstanceID": "egova-2",
+        "variables": {
+        }
+    },
+    "handlingUser": {
+		"sourceAppID": "源系统编码",
+		"action": "Transit",
+		"comment": "测试流程",
+		"handlingOUID": "部门ID",
+		"handlingOUName": "部门名称",
+		"handlingUserID": "2",
+		"handlingUserName": "用户名称",
+    },
+    "instanceData": {
+    },
+	"custom": {
+	}
+}
