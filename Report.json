@@ -61,7 +61,11 @@
 		}
 	},
 	"custom": {
-		"procDefID": "2",
 		"recID": "2"
-	}
+	},
+        "schema": {
+                "domainID": "cUq8000000boA24VjxVA",
+                "name": "TaxSchema",
+                "version": "0.0.3"
+        }
 }
