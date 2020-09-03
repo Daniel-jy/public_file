@@ -5,16 +5,16 @@
         "taskInstanceID": "egova-2",
         "variables": {
             "nextActDefID": 8,
-			      "nextPartID": 2
+	"nextPartID": 2
         }
     },
     "handlingUser": {
       "sourceAppID": "源系统编码",
       "action": "Transit",
-      "comment": "测试流程", #批注
+      "comment": "测试流程",
       "handlingOUID": "部门ID",
       "handlingOUName": "部门名称",
-      "handlingUserID": "2", #humanID
+      "handlingUserID": "2",
       "handlingUserName": "用户名称",
     },
     "instanceData": {
