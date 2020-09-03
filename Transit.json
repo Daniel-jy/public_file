@@ -1,0 +1,24 @@
+/service/HW_Xiabo__ServiceConfig/0.1.1/TaskComplete
+
+{
+    "taskInstance": {
+        "taskInstanceID": "egova-2",
+        "variables": {
+            "nextActDefID": 8,
+			      "nextPartID": 2
+        }
+    },
+    "handlingUser": {
+      "sourceAppID": "源系统编码",
+      "action": "Transit",
+      "comment": "测试流程", #批注
+      "handlingOUID": "部门ID",
+      "handlingOUName": "部门名称",
+      "handlingUserID": "2", #humanID
+      "handlingUserName": "用户名称",
+    },
+    "instanceData": {
+    },
+	"custom": {
+	}
+}
