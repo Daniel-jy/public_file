@@ -1,0 +1,22 @@
+json={
+    "taskInstance":{
+        "taskInstanceID":"egova-100", // actID
+        "taskLabel": "核查",
+        "deadline": "yyyy-MM-dd HH:mm:ss"
+    },
+    "handlingUser": {
+        "handlingUserID": 10000,
+        "handlingUserName": "公安局",
+        "handlingOUID": 10000,
+        "handlingOUName": "公安局",
+        "comment":"核查",
+        "action": ""
+    },
+    "instanceData": {
+      // 事件实例数据
+    },
+    "custom": {
+
+    }
+    
+}
